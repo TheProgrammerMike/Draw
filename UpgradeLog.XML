@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="07-a2-soln">
+</Property><Property Name="Solution File" Value="C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\07-a2-soln.sln">
+</Property><Property Name="Date" Value="Tuesday, May 01, 2012">
+</Property><Property Name="Time" Value="3:39:22 AM">
+</Property></Properties><Event ErrorLevel="0" Project="07-a2-soln" Source="07-a2-soln.vcproj" Description="Converting project file 'C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\07-a2-soln.vcproj'.">
+</Event><Event ErrorLevel="1" Project="07-a2-soln" Source="07-a2-soln.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="07-a2-soln" Source="07-a2-soln.vcproj" Description="Done converting to new project file 'C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\07-a2-soln.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="07-a2-soln" Source="07-a2-soln.vcproj" Description="Converted">
+</Event></UpgradeLog>

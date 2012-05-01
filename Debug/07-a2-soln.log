@@ -1,0 +1,33 @@
+﻿Build started 5/1/2012 3:43:56 AM.
+     1>Project "C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\07-a2-soln.vcxproj" on node 3 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\07-a2-soln.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt drawing.cpp main.cpp
+         main.cpp
+         drawing.cpp
+     1>c:\users\michael bekesz\desktop\school\school 07-09\school 09\spring09\cs161objectoriented\publicfolder\07-a2-soln\drawing.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\07-a2-soln.exe.embed.manifest.res" Debug\07-a2-soln_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib fltk.lib wsock32.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:msvcrt.lib /MANIFEST /ManifestFile:"Debug\07-a2-soln.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.lib" /MACHINE:X86 "Debug\07-a2-soln.exe.embed.manifest.res"
+         Debug\drawing.obj
+         Debug\main.obj
+       Manifest:
+         Deleting file "Debug\07-a2-soln.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\07-a2-soln.exe.embed.manifest" /manifest "Debug\07-a2-soln.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\07-a2-soln.exe.embed.manifest.res" Debug\07-a2-soln_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib fltk.lib wsock32.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:msvcrt.lib /MANIFEST /ManifestFile:"Debug\07-a2-soln.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.lib" /MACHINE:X86 "Debug\07-a2-soln.exe.embed.manifest.res"
+         Debug\drawing.obj
+         Debug\main.obj
+         07-a2-soln.vcxproj -> C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\Debug\07-a2-soln.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\07-a2-soln.unsuccessfulbuild".
+         Touching "Debug\07-a2-soln.lastbuildstate".
+     1>Done Building Project "C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\07-a2-soln\07-a2-soln.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96
